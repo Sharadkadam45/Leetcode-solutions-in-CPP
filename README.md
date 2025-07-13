@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0001-two-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
