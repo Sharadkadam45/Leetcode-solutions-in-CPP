@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,17 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
