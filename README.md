@@ -40,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Interactive
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
