@@ -91,13 +91,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
