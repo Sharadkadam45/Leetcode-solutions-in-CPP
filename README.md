@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
+| [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -115,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
