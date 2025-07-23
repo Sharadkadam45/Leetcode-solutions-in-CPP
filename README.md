@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
