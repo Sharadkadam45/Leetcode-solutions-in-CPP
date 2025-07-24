@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0184-department-highest-salary) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
