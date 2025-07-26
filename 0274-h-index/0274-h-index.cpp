@@ -11,10 +11,7 @@ public:
     }
     int hIndex(vector<int>& citations) {
         int n=citations.size();
-        if(n==1){
-            if(citations[0]>0) return 1;
-            return 0;
-        }
+
         int low=1;
         int high=INT_MIN;
 
