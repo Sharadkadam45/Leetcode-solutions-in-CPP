@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -168,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
