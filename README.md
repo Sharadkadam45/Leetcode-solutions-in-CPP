@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [1319-unique-number-of-occurrences](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1319-unique-number-of-occurrences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1302-delete-characters-to-make-fancy-string) |
