@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
+| [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3396-valid-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3396-valid-word) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
