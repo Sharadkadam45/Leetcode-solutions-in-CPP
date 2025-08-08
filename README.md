@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Interactive
 |  |
 | ------- |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3396-valid-word) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Simulation
 |  |
 | ------- |
