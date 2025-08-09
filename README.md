@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
