@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0128-longest-consecutive-sequence) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
