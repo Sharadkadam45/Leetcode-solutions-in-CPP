@@ -168,17 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0100-same-tree) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
