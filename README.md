@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0907-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1319-unique-number-of-occurrences) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Simulation
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -308,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
