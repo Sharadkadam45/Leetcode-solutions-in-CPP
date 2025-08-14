@@ -12,11 +12,6 @@ public:
         }
 
         if(x!=1) return false;
-        cout<<c<<endl;
-        if(n<0){
-            if(c%2!=0) return false;
-            else return true;
-        }
         return true;
     }
 };
