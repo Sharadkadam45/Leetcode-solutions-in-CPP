@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3396-valid-word) |
