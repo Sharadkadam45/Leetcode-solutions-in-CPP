@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
