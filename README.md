@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2215-finding-3-digit-even-numbers) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1036-rotting-oranges) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
