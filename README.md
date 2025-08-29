@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1448-maximum-69-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Interactive
 |  |
