@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1917-maximum-average-pass-ratio) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1917-maximum-average-pass-ratio) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |
