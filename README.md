@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1917-maximum-average-pass-ratio) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1448-maximum-69-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3279-alice-and-bob-playing-flower-game) |
