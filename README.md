@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0932-monotonic-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1319-unique-number-of-occurrences) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
