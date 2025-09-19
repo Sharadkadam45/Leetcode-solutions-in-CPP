@@ -4,12 +4,11 @@ public:
         int n=s.size();
         int i=0;
         int j=0;
-        set<char> st;
         int ans=0;
-        while(j<n){ 
+        set<char> st;
+        while(j<n){
             if(st.find(s[j])!=st.end()){
-                // cout<<j<<endl;
-                while(i<n && s[j]!=s[i]){
+                while(i<n && s[i]!=s[j]){
                     st.erase(s[i]);
                     i++;
                 }
@@ -17,11 +16,12 @@ public:
                 i++;
             }
             else{
-                st.insert(s[j]);
                 ans=max(ans,j-i+1);
+                st.insert(s[j]);
                 j++;
-            } 
-        }
+            }
+        }   
+
         return ans;
     }
 };
