@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 ## Divide and Conquer
 |  |
