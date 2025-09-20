@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0128-longest-consecutive-sequence) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0173-binary-search-tree-iterator) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
