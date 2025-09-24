@@ -4,23 +4,21 @@ public:
         int n=strs.size();
         unordered_map<string,vector<string>> mp;
         for(int i=0;i<n;i++){
-            string str=strs[i];
-            sort(str.begin(),str.end());
-            if(mp.find(str)!=mp.end()){
-                mp[str].push_back(strs[i]);
+            string temp=strs[i];
+            sort(temp.begin(),temp.end());
+            if(mp.find(temp)!=mp.end()) {
+                mp[temp].push_back(strs[i]);
             }
-            else {
+            else{
                 vector<string> v;
                 v.push_back(strs[i]);
-                mp[str]=v;
+                mp[temp]=v;
             }
         }
-
         vector<vector<string>> ans;
         for(auto x:mp){
             ans.push_back(x.second);
         }
         return ans;
-
     }
 };
