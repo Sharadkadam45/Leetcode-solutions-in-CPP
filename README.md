@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
+| [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 ## Database
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
