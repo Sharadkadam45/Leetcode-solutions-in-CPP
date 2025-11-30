@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
