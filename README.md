@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0148-sort-list) |
