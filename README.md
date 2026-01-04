@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1185-find-in-mountain-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 ## Monotonic Stack
 |  |
