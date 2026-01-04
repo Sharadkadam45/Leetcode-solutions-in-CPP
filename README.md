@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0966-binary-subarrays-with-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0392-is-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [0889-buddy-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0889-buddy-strings) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
