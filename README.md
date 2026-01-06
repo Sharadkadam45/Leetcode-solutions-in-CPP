@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 ## Backtracking
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
