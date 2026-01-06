@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0932-monotonic-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/3748-sort-matrix-by-diagonals) |
