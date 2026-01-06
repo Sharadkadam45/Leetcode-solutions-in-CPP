@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0713-subarray-product-less-than-k) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0347-top-k-frequent-elements) |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 ## Monotonic Stack
