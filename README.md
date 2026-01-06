@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0326-power-of-three) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0125-valid-palindrome) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0537-complex-number-multiplication) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sharadkadam45/Leetcode-solutions-in-CPP/tree/master/0342-power-of-four) |
 ## Monotonic Stack
